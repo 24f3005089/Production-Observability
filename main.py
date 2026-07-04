@@ -9,7 +9,7 @@ import uuid
 import json
 from collections import deque
 
-EMAIL = "YOUR_REGISTERED_EMAIL"  # Replace with your exact email
+EMAIL = "24f3005089@ds.study.iitm.ac.in"
 
 app = FastAPI()
 
